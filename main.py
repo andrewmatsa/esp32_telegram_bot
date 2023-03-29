@@ -8,7 +8,7 @@ from time import sleep
 import dht
 from machine import Pin
 
-TOKEN = "5961538933:AAF9EtEI30gZmpGsD9yqHX5i2UANJg_kRHs"
+TOKEN = "xxxxxxxx"
 URL = f"https://api.telegram.org/bot{TOKEN}/"
 CHAT_ID = "400948556"
 WIFI_USER = 'Andre Archer Connect'
